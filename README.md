@@ -29,30 +29,30 @@ This project focuses on analyzing and forecasting retail sales performance using
 
 ```
 retail-sales-analytics/
-├── superstore.csv                 # Sample dataset used for analysis
-├── sales_forecast_prophet.ipynb   # Time series forecasting using Prophet
-├── ml_forecast_results.xlsx       # Forecasted sales stored in Excel
-├── dashboard.pbix                 # Interactive Power BI dashboard
-├── dashboard_summary.pdf          # Exported dashboard for sharing
-├── .gitignore                     # Files/folders excluded from Git tracking
-└── README.md                      # Project overview and documentation
+├── Sample-Superstore.csv                 # Sample dataset used for analysis
+├── sales_forecast_prophet.ipynb          # Time series forecasting using Prophet
+├── ml_forecast.xlsx                      # Forecasted sales stored in Excel
+├── Retail_Sales_Analytics_Ananthu.pbix   # Interactive Power BI dashboard
+├── Retail_Sales_Analytics_Ananthu.pdf    # Exported dashboard for sharing
+├── .gitignore                            # Files/folders excluded from Git tracking
+└── README.md                             # Project overview and documentation
 ```
 
 ---
 
 ## 📥 Files Included
 
-- `superstore_sample.csv` — Sample dataset used
+- `Sample-Superstore.csv` — Sample dataset used
 - `sales_forecast_prophet.ipynb` — Jupyter Notebook with Prophet ML model
-- `forecast_output.xlsx` — Forecasted results exported from the model
-- `powerbi_dashboard.pbix` — Interactive Power BI dashboard file
-- `dashboard_summary.pdf` — PDF export of the dashboard view
+- `ml_forecast.xlsx` — Forecasted results exported from the model
+- `Retail_Sales_Analytics_Ananthu.pbix` — Interactive Power BI dashboard file
+- `Retail_Sales_Analytics_Ananthu.pdf` — PDF export of the dashboard view
 
 ---
 
 ## 📄 Dashboard Summary
 
-📥 [Click here to view the Power BI Dashboard (PDF)](dashboard_summary.pdf)
+📥 [Click here to view the Power BI Dashboard (PDF)](Retail_Sales_Analytics_Ananthu.pdf)
 
 
 ## 👨‍💻 Author
