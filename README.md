@@ -38,3 +38,29 @@ retail-sales-analytics/
 └── README.md                      # Project overview and documentation
 ```
 
+---
+
+## 📥 Files Included
+
+- `superstore_sample.csv` — Sample dataset used
+- `sales_forecast_prophet.ipynb` — Jupyter Notebook with Prophet ML model
+- `forecast_output.xlsx` — Forecasted results exported from the model
+- `powerbi_dashboard.pbix` — Interactive Power BI dashboard file
+- `dashboard_summary.pdf` — PDF export of the dashboard view
+
+---
+
+## 📄 Dashboard Summary
+
+📥 [Click here to view the Power BI Dashboard (PDF)](dashboard_summary.pdf)
+
+
+## 👨‍💻 Author
+
+- **Ananthu Krishna G**
+
+---
+
+## 📜 License
+
+This project was completed as part of a data analytics course. Free for educational and non-commercial use.
