@@ -25,4 +25,16 @@ This project focuses on analyzing and forecasting retail sales performance using
 
 ---
 
-<pre><code>## 📁 Project Structure ``` retail-sales-analytics/ ├── superstore.csv # Sample dataset used for analysis ├── sales_forecast_prophet.ipynb # Time series forecasting using Prophet ├── ml_forecast_results.xlsx # Forecasted sales stored in Excel ├── dashboard.pbix # Interactive Power BI dashboard ├── dashboard_summary.pdf # Exported dashboard for sharing ├── .gitignore # Files/folders excluded from Git tracking └── README.md # Project overview and documentation ``` </code></pre>
+## 📁 Project Structure
+
+```
+retail-sales-analytics/
+├── superstore.csv                 # Sample dataset used for analysis
+├── sales_forecast_prophet.ipynb   # Time series forecasting using Prophet
+├── ml_forecast_results.xlsx       # Forecasted sales stored in Excel
+├── dashboard.pbix                 # Interactive Power BI dashboard
+├── dashboard_summary.pdf          # Exported dashboard for sharing
+├── .gitignore                     # Files/folders excluded from Git tracking
+└── README.md                      # Project overview and documentation
+```
+
