@@ -52,8 +52,9 @@ retail-sales-analytics/
 
 ## 📄 Dashboard Summary
 
-📥 [Click here to view the Power BI Dashboard (PDF)](Retail_Sales_Analytics_Ananthu.pdf)
+📥 [Click here to view the Power BI Dashboard (PDF)](Retail_Sales_Analytics_Ananthu.pdf) 
 
+*If the preview doesn't load, please download the PDF to view it fully.*
 
 ## 👨‍💻 Author
 
