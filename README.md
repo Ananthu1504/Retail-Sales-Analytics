@@ -27,28 +27,51 @@ This project focuses on analyzing and forecasting retail sales performance using
 
 ## 📁 Project Structure
 
-```
+```text
 retail-sales-analytics/
-├── Sample-Superstore.csv                 # Sample dataset used for analysis
-├── sales_forecast_prophet.ipynb          # Time series forecasting using Prophet
-├── ml_forecast.xlsx                      # Forecasted sales stored in Excel
-├── Retail_Sales_Analytics_Ananthu.pbix   # Interactive Power BI dashboard
-├── Retail_Sales_Analytics_Ananthu.pdf    # Exported dashboard for sharing
-├── .gitignore                            # Files/folders excluded from Git tracking
-└── README.md                             # Project overview and documentation
+├── screenshots/
+│   ├── dashboard_overview.png             # Main dashboard preview
+│   ├── product_performance.png            # Product Performance
+│   ├── customer segmentation.png          # Customer Segmentation(RFM Analysis)
+│   └── forecast.png                       # Forecast Analysis
+│
+├── Sample-Superstore.csv                  # Raw retail dataset used for analysis
+├── sales_forecast_prophet.ipynb           # Jupyter notebook for time series forecasting (Prophet)
+├── ml_forecast.xlsx                       # Forecast output exported for Power BI integration
+├── Retail_Sales_Analytics_Ananthu.pbix    # Interactive Power BI dashboard file
+├── Retail_Sales_Analytics_Ananthu.pdf     # Static PDF version of dashboard (quick preview)
+├── .gitignore                             # Files/folders excluded from Git tracking
+└── README.md                              # Project documentation and overview
 ```
 
 ---
 
 ## 📥 Files Included
 
-- `Sample-Superstore.csv` — Sample dataset used
-- `sales_forecast_prophet.ipynb` — Jupyter Notebook with Prophet ML model
-- `ml_forecast.xlsx` — Forecasted results exported from the model
+- `screenshots/` — Dashboard preview images for quick visual reference
+- `Sample-Superstore.csv` — Raw retail dataset used for analysis
+- `sales_forecast_prophet.ipynb` — Jupyter Notebook implementing time series forecasting with Prophet
+- `ml_forecast.xlsx` — Forecasted results exported for Power BI integration
 - `Retail_Sales_Analytics_Ananthu.pbix` — Interactive Power BI dashboard file
-- `Retail_Sales_Analytics_Ananthu.pdf` — PDF export of the dashboard view
+- `Retail_Sales_Analytics_Ananthu.pdf` — Static PDF version of the dashboard for quick viewing
+
 
 ---
+
+## 🖼️ Dashboard Preview
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard_overview.png)
+
+### Product Performnace
+![Forecast](screenshots/product_performance.png)
+
+### Customer Segmentation(RFM)
+![Trends](screenshots/customer_segmentation.png)
+
+### Forecast
+![KPI](screenshots/forecast.png)
+
 
 ## 📄 Dashboard Summary
 
