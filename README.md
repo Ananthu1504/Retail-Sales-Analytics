@@ -43,21 +43,6 @@ retail-sales-analytics/
 ├── .gitignore                             # Files/folders excluded from Git tracking
 └── README.md                              # Project documentation and overview
 ```
-
----
-
-## 📥 Files Included
-
-- `screenshots/` — Dashboard preview images for quick visual reference
-- `Sample-Superstore.csv` — Raw retail dataset used for analysis
-- `sales_forecast_prophet.ipynb` — Jupyter Notebook implementing time series forecasting with Prophet
-- `ml_forecast.xlsx` — Forecasted results exported for Power BI integration
-- `Retail_Sales_Analytics_Ananthu.pbix` — Interactive Power BI dashboard file
-- `Retail_Sales_Analytics_Ananthu.pdf` — Static PDF version of the dashboard for quick viewing
-
-
----
-
 ## 🖼️ Dashboard Preview
 
 ### 🔹Main Dashboard
@@ -72,6 +57,19 @@ retail-sales-analytics/
 ### 🔹Forecast
 ![KPI](screenshots/forecast.png)
 
+
+---
+
+## 📥 Files Included
+
+- `screenshots/` — Dashboard preview images for quick visual reference
+- `Sample-Superstore.csv` — Raw retail dataset used for analysis
+- `sales_forecast_prophet.ipynb` — Jupyter Notebook implementing time series forecasting with Prophet
+- `ml_forecast.xlsx` — Forecasted results exported for Power BI integration
+- `Retail_Sales_Analytics_Ananthu.pbix` — Interactive Power BI dashboard file
+- `Retail_Sales_Analytics_Ananthu.pdf` — Static PDF version of the dashboard for quick viewing
+
+---
 
 ## 📄 Dashboard Summary
 
