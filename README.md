@@ -60,16 +60,16 @@ retail-sales-analytics/
 
 ## 🖼️ Dashboard Preview
 
-### Main Dashboard
+### 🔹Main Dashboard
 ![Dashboard](screenshots/dashboard_overview.png)
 
-### Product Performance
+### 🔹Product Performance
 ![Forecast](screenshots/product_performance.png)
 
-### Customer Segmentation(RFM)
+### 🔹Customer Segmentation(RFM)
 ![Trends](screenshots/customer_segmentation.png)
 
-### Forecast
+### 🔹Forecast
 ![KPI](screenshots/forecast.png)
 
 
